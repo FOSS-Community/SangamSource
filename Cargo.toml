@@ -1,0 +1,14 @@
+[package]
+name = "sangam"
+version = "0.1.0"
+authors = ["vivek"]
+description = "A democratic platform for FOSSCU"
+repository = "https://github.com/FOSS-Community/sangam"
+readme = "README.md"
+license = "GPL-3.0-only"
+
+[dependencies]
+
+
+[workspace]
+members = ["app", "api"]
