@@ -1,6 +1,6 @@
 <p align="center">
     <img src="./app/assets/logo.png" width="100" />
-    <h2 align="center">sangam</h2>
+    <h2 align="center">we-can</h2>
     <h3 align="center">FOSSCU</h3>
 </p>
 

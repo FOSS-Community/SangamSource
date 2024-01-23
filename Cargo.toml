@@ -7,8 +7,6 @@ repository = "https://github.com/FOSS-Community/sangam"
 readme = "README.md"
 license = "GPL-3.0-only"
 
-[dependencies]
-
 
 [workspace]
-members = ["app", "api"]
+members = ["app", "api", "types"]

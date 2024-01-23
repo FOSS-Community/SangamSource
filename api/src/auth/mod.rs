@@ -3,7 +3,6 @@ use anyhow::{anyhow, Result as Anysult};
 use oauth2::{CsrfToken, PkceCodeChallenge};
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
-use sqlx::{query, Row};
 
 use crate::db::PostgresPool;
 

@@ -8,11 +8,11 @@ description = "Sangam backend"
 
 [dependencies]
 actix = "0.13.0"
-actix-cors = "0.6.4"
+actix-cors = "0.7.0"
 actix-web = "4.3.1"
 anyhow = "1.0.60"
 base64 = "0.21.5"
-env_logger = "0.10.1"
+env_logger = "0.11.0"
 jsonwebtoken= "9.2.0"
 log = "0.4.0"
 reqwest = { version = "0.11.11", features = ["json"]}
